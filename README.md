@@ -19,7 +19,6 @@ A running PostgreSQL database instance
 
 Installation
 1. Clone the repository:
-git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
 cd your-repository
 Create and activate a virtual environment:
 
